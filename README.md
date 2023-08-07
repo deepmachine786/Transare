@@ -1,10 +1,10 @@
-# TRANSARE | A Cross-Platform File Sharing Application
+# TRANSARE | A Cross-Platform File-Sharing Application
 
-![Transare Logo](link_to_logo_image)
+<img src="https://github.com/deepmachine786/Transare/blob/main/assets/assets/page-1/images/head_transare.png"></img>
 
 ## Overview
 
-This repository contains the source code and documentation for Transare, a versatile cross-platform file-sharing application developed by [Your Name]. Transare allows users to seamlessly share files across Android, iPhone, desktop, and MacOS devices. It offers a convenient and time-saving solution for users, regardless of their platform or device.
+This repository contains the source code and documentation for Transare, a versatile cross-platform file-sharing application developed by Md Shahid Ali. Transare allows users to seamlessly share files across Android, iPhone, desktop, and MacOS devices. It offers a convenient and time-saving solution for users, regardless of their platform or device.
 
 ## Key Features
 
