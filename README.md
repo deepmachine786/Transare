@@ -29,6 +29,8 @@ Follow these steps to install and run Transare on your local machine:
 - Flutter
 - React
 - JavaScript
+- MangoDB
+- MySQL
 
 ## Contributing
 
